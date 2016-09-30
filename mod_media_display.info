@@ -3,9 +3,9 @@ description = Provider Field formatter type "Media" support Gallery,Video,Sound 
 core = 7.x
 version = 1.0 - Devel
 
-dependencies = media
-dependencies = media_vimeo
-dependencies = media_youtube
-dependencies = media_soundcloud
+dependencies[] = media
+dependencies[] = media_vimeo
+dependencies[] = media_youtube
+dependencies[] = media_soundcloud
 
 package = Custom module - Required
