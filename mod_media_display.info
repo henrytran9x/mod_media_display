@@ -1,0 +1,7 @@
+name = Media Formatter Display
+description = Provie Field formatter support Gallery,Video,Sound Clound
+core = 7.x
+version = 1.0
+dependencies = media
+
+package = Custom module - Required
